@@ -2,7 +2,7 @@
 Simple blocks game
 
 Instructions:<br />
-Click or use the arrow keys to select a block to move
+Click or use the arrow keys to select a block to move </br>
 WASD to move the block up, left, down, and right
 
 Goal:<br />
